@@ -1,6 +1,6 @@
 <h1 align='center'><b>Hi, I'm Christian 👋</b></h1>
 
-[![](https://visitcount.itsvg.in/api?id=Zycheee&icon=1&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Zycheee)
 
 <h2><b>💫 About Me: </b></h2>
 <p>🧑‍🎓 Currently Studying Computer Science<br></p>

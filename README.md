@@ -31,7 +31,9 @@
 
 ###
 
-<h1 align="center">Socials</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />
+  Socials
+</h1>
 
 ###
 
@@ -122,18 +124,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zycheee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zycheee&theme=tokyonight&hide_border=true" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zycheee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  />
-</div>
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zycheee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
+<h1 align="center">My Github Stats</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/Zycheee/Zycheee/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zycheee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zycheee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Zycheee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 

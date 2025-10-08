@@ -124,7 +124,10 @@
 
 ###
 
-<h1 align="center">My Github Stats</h3>
+<h1 align="center">
+  <img src="https://camo.githubusercontent.com/0cb4639d8c867290fbeb508708577ff8c6d1d16a2be9a597d6331e1e82d0c496/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6f71744a6a653638556b5141414141432f677574732e676966" height="30"> 
+     My Github Stats
+  </h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zycheee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

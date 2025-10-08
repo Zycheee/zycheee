@@ -10,11 +10,24 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> <h1 align="left">About me</h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" 
+       alt="Backhand Index Pointing Right Light Skin Tone" 
+       width="30" 
+       height="30">
+  About me
+</h1>
+
 
 ###
 
-<p align="left">Aiming to become a Fullstack Developer<br>Currently studying Computer Science</p>
+<p align="left">- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="20" height="20" >  
+   Aiming to become a Fullstack-Developer
+</p>
+<p align="left">
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bowing%20Light%20Skin%20Tone.png" alt="Man Bowing Light Skin Tone" width="25" height="20"> 
+   I'm currently learning React 
+</p>
 
 ###
 
@@ -23,17 +36,23 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  <a href="Zyceee" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=zyche_&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@xynitys" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">Skills</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+    alt="Skills"
+    width="30"
+    height="30"> 
+  Skills
+</h1>
 
 ###
 
@@ -104,9 +123,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zycheee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zycheee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Zycheee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zycheee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zycheee&theme=tokyonight&hide_border=true" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zycheee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  />
+</div>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Zycheee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </div>
 
 ###

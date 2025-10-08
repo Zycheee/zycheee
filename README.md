@@ -1,4 +1,4 @@
-<h1 align='center'><b>Hi, I'm Christian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /></b></h1>
+<h1 align='center'><b>Hi, I'm Christian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60 height="60" /></b></h1>
 
 ![](https://komarev.com/ghpvc/?username=Zycheee)
 
@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zyche1) 
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Tiktok Logo" width=25 height=25/>(https://www.tiktok.com/@xynitys)
 
 <h2><b>🧑🏻‍💻 Languages</b></h2>
 
